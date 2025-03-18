@@ -3,7 +3,7 @@
   By Matthew Discepola
   Based on code from:
 
-Souce Code Garrett O'Neil 
+Souce Code Garrett O'Neil #1
   Blink
 
   Turns an LED on for one second, then off for one second, repeatedly.
