@@ -1,6 +1,9 @@
 /*
   Three Blink
   By Matthew Discepola
+
+  And edited by Will and Garret
+  
   Based on code from:
 
   Blink
